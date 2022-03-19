@@ -1,2 +1,2 @@
-# leetcode_C-C-
-C/C++算法练习
+# leetcode_C/C++
+# C/C++算法练习
