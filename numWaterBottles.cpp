@@ -13,4 +13,5 @@ int numWaterBottles(int numBottles, int numExchange){
 }
 int main(){
     printf("%d",numWaterBottles(100,2));
+    // 199
 }
